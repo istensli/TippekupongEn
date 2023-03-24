@@ -64,7 +64,7 @@ namespace TippekupongEn
         }
         private void PrintMinutes() 
         {
-            Console.WriteLine($"-----------Mintes passed: {Minutes} -------------");
+            Console.WriteLine($"-----------Minutes passed: {Minutes} -------------");
         }
 
         public string Result()
