@@ -47,14 +47,14 @@ namespace TippekupongEn
         private void AwayGoal() 
         {
             AwayGoals += 1;
-            Console.WriteLine("Hjemmelaget scorer!");
+            Console.WriteLine("Bortelaget scorer!");
             PrintStandings();
         }
 
         private void HomeGoal()
         {
             HomeGoals += 1;
-            Console.WriteLine("Bortelaget scorer!");
+            Console.WriteLine("Hjemmelaget scorer!");
             PrintStandings();
         }
 
